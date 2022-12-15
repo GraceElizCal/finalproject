@@ -1,0 +1,866 @@
+[
+ {
+   "store_id": "S0091",
+   "storetype_id": "ST04",
+   "store_size": 19,
+   "city_id": "C013"
+ },
+ {
+   "store_id": "S0012",
+   "storetype_id": "ST04",
+   "store_size": 28,
+   "city_id": "C005"
+ },
+ {
+   "store_id": "S0045",
+   "storetype_id": "ST04",
+   "store_size": 17,
+   "city_id": "C008"
+ },
+ {
+   "store_id": "S0032",
+   "storetype_id": "ST03",
+   "store_size": 14,
+   "city_id": "C019"
+ },
+ {
+   "store_id": "S0027",
+   "storetype_id": "ST04",
+   "store_size": 24,
+   "city_id": "C022"
+ },
+ {
+   "store_id": "S0088",
+   "storetype_id": "ST04",
+   "store_size": 20,
+   "city_id": "C009"
+ },
+ {
+   "store_id": "S0095",
+   "storetype_id": "ST02",
+   "store_size": 44,
+   "city_id": "C014"
+ },
+ {
+   "store_id": "S0055",
+   "storetype_id": "ST04",
+   "store_size": 24,
+   "city_id": "C014"
+ },
+ {
+   "store_id": "S0099",
+   "storetype_id": "ST03",
+   "store_size": 14,
+   "city_id": "C014"
+ },
+ {
+   "store_id": "S0078",
+   "storetype_id": "ST04",
+   "store_size": 19,
+   "city_id": "C036"
+ },
+ {
+   "store_id": "S0006",
+   "storetype_id": "ST03",
+   "store_size": 8,
+   "city_id": "C024"
+ },
+ {
+   "store_id": "S0135",
+   "storetype_id": "ST03",
+   "store_size": 16,
+   "city_id": "C035"
+ },
+ {
+   "store_id": "S0066",
+   "storetype_id": "ST04",
+   "store_size": 47,
+   "city_id": "C033"
+ },
+ {
+   "store_id": "S0106",
+   "storetype_id": "ST04",
+   "store_size": 21,
+   "city_id": "C031"
+ },
+ {
+   "store_id": "S0112",
+   "storetype_id": "ST04",
+   "store_size": 46,
+   "city_id": "C031"
+ },
+ {
+   "store_id": "S0059",
+   "storetype_id": "ST03",
+   "store_size": 15,
+   "city_id": "C014"
+ },
+ {
+   "store_id": "S0129",
+   "storetype_id": "ST04",
+   "store_size": 18,
+   "city_id": "C021"
+ },
+ {
+   "store_id": "S0116",
+   "storetype_id": "ST03",
+   "store_size": 15,
+   "city_id": "C031"
+ },
+ {
+   "store_id": "S0098",
+   "storetype_id": "ST03",
+   "store_size": 15,
+   "city_id": "C022"
+ },
+ {
+   "store_id": "S0049",
+   "storetype_id": "ST04",
+   "store_size": 25,
+   "city_id": "C031"
+ },
+ {
+   "store_id": "S0144",
+   "storetype_id": "ST04",
+   "store_size": 21,
+   "city_id": "C022"
+ },
+ {
+   "store_id": "S0097",
+   "storetype_id": "ST04",
+   "store_size": 45,
+   "city_id": "C014"
+ },
+ {
+   "store_id": "S0130",
+   "storetype_id": "ST03",
+   "store_size": 17,
+   "city_id": "C037"
+ },
+ {
+   "store_id": "S0041",
+   "storetype_id": "ST03",
+   "store_size": 8,
+   "city_id": "C013"
+ },
+ {
+   "store_id": "S0142",
+   "storetype_id": "ST04",
+   "store_size": 31,
+   "city_id": "C006"
+ },
+ {
+   "store_id": "S0123",
+   "storetype_id": "ST04",
+   "store_size": 20,
+   "city_id": "C021"
+ },
+ {
+   "store_id": "S0007",
+   "storetype_id": "ST03",
+   "store_size": 16,
+   "city_id": "C014"
+ },
+ {
+   "store_id": "S0107",
+   "storetype_id": "ST04",
+   "store_size": 19,
+   "city_id": "C014"
+ },
+ {
+   "store_id": "S0036",
+   "storetype_id": "ST04",
+   "store_size": 21,
+   "city_id": "C001"
+ },
+ {
+   "store_id": "S0044",
+   "storetype_id": "ST03",
+   "store_size": 6,
+   "city_id": "C022"
+ },
+ {
+   "store_id": "S0052",
+   "storetype_id": "ST04",
+   "store_size": 17,
+   "city_id": "C014"
+ },
+ {
+   "store_id": "S0101",
+   "storetype_id": "ST04",
+   "store_size": 30,
+   "city_id": "C026"
+ },
+ {
+   "store_id": "S0043",
+   "storetype_id": "ST04",
+   "store_size": 37,
+   "city_id": "C025"
+ },
+ {
+   "store_id": "S0141",
+   "storetype_id": "ST03",
+   "store_size": 12,
+   "city_id": "C005"
+ },
+ {
+   "store_id": "S0040",
+   "storetype_id": "ST04",
+   "store_size": 42,
+   "city_id": "C017"
+ },
+ {
+   "store_id": "S0037",
+   "storetype_id": "ST04",
+   "store_size": 18,
+   "city_id": "C035"
+ },
+ {
+   "store_id": "S0140",
+   "storetype_id": "ST03",
+   "store_size": 16,
+   "city_id": "C022"
+ },
+ {
+   "store_id": "S0016",
+   "storetype_id": "ST03",
+   "store_size": 11,
+   "city_id": "C014"
+ },
+ {
+   "store_id": "S0009",
+   "storetype_id": "ST03",
+   "store_size": 13,
+   "city_id": "C020"
+ },
+ {
+   "store_id": "S0074",
+   "storetype_id": "ST03",
+   "store_size": 12,
+   "city_id": "C022"
+ },
+ {
+   "store_id": "S0128",
+   "storetype_id": "ST03",
+   "store_size": 13,
+   "city_id": "C022"
+ },
+ {
+   "store_id": "S0105",
+   "storetype_id": "ST04",
+   "store_size": 25,
+   "city_id": "C032"
+ },
+ {
+   "store_id": "S0053",
+   "storetype_id": "ST03",
+   "store_size": 11,
+   "city_id": "C031"
+ },
+ {
+   "store_id": "S0011",
+   "storetype_id": "ST03",
+   "store_size": 15,
+   "city_id": "C031"
+ },
+ {
+   "store_id": "S0070",
+   "storetype_id": "ST04",
+   "store_size": 24,
+   "city_id": "C030"
+ },
+ {
+   "store_id": "S0084",
+   "storetype_id": "ST04",
+   "store_size": 19,
+   "city_id": "C022"
+ },
+ {
+   "store_id": "S0017",
+   "storetype_id": "ST04",
+   "store_size": 27,
+   "city_id": "C030"
+ },
+ {
+   "store_id": "S0113",
+   "storetype_id": "ST04",
+   "store_size": 25,
+   "city_id": "C024"
+ },
+ {
+   "store_id": "S0119",
+   "storetype_id": "ST03",
+   "store_size": 15,
+   "city_id": "C031"
+ },
+ {
+   "store_id": "S0089",
+   "storetype_id": "ST03",
+   "store_size": 18,
+   "city_id": "C014"
+ },
+ {
+   "store_id": "S0068",
+   "storetype_id": "ST03",
+   "store_size": 14,
+   "city_id": "C003"
+ },
+ {
+   "store_id": "S0103",
+   "storetype_id": "ST04",
+   "store_size": 22,
+   "city_id": "C022"
+ },
+ {
+   "store_id": "S0087",
+   "storetype_id": "ST04",
+   "store_size": 23,
+   "city_id": "C031"
+ },
+ {
+   "store_id": "S0029",
+   "storetype_id": "ST03",
+   "store_size": 15,
+   "city_id": "C022"
+ },
+ {
+   "store_id": "S0008",
+   "storetype_id": "ST04",
+   "store_size": 27,
+   "city_id": "C024"
+ },
+ {
+   "store_id": "S0046",
+   "storetype_id": "ST04",
+   "store_size": 26,
+   "city_id": "C017"
+ },
+ {
+   "store_id": "S0120",
+   "storetype_id": "ST03",
+   "store_size": 16,
+   "city_id": "C014"
+ },
+ {
+   "store_id": "S0092",
+   "storetype_id": "ST04",
+   "store_size": 23,
+   "city_id": "C005"
+ },
+ {
+   "store_id": "S0108",
+   "storetype_id": "ST04",
+   "store_size": 35,
+   "city_id": "C016"
+ },
+ {
+   "store_id": "S0124",
+   "storetype_id": "ST03",
+   "store_size": 15,
+   "city_id": "C030"
+ },
+ {
+   "store_id": "S0133",
+   "storetype_id": "ST04",
+   "store_size": 24,
+   "city_id": "C028"
+ },
+ {
+   "store_id": "S0131",
+   "storetype_id": "ST04",
+   "store_size": 22,
+   "city_id": "C012"
+ },
+ {
+   "store_id": "S0080",
+   "storetype_id": "ST03",
+   "store_size": 14,
+   "city_id": "C014"
+ },
+ {
+   "store_id": "S0014",
+   "storetype_id": "ST03",
+   "store_size": 14,
+   "city_id": "C014"
+ },
+ {
+   "store_id": "S0075",
+   "storetype_id": "ST03",
+   "store_size": 12,
+   "city_id": "C024"
+ },
+ {
+   "store_id": "S0048",
+   "storetype_id": "ST01",
+   "store_size": 83,
+   "city_id": "C031"
+ },
+ {
+   "store_id": "S0073",
+   "storetype_id": "ST04",
+   "store_size": 19,
+   "city_id": "C014"
+ },
+ {
+   "store_id": "S0002",
+   "storetype_id": "ST04",
+   "store_size": 39,
+   "city_id": "C007"
+ },
+ {
+   "store_id": "S0063",
+   "storetype_id": "ST04",
+   "store_size": 23,
+   "city_id": "C033"
+ },
+ {
+   "store_id": "S0004",
+   "storetype_id": "ST04",
+   "store_size": 20,
+   "city_id": "C022"
+ },
+ {
+   "store_id": "S0122",
+   "storetype_id": "ST04",
+   "store_size": 23,
+   "city_id": "C008"
+ },
+ {
+   "store_id": "S0020",
+   "storetype_id": "ST04",
+   "store_size": 36,
+   "city_id": "C014"
+ },
+ {
+   "store_id": "S0094",
+   "storetype_id": "ST04",
+   "store_size": 45,
+   "city_id": "C006"
+ },
+ {
+   "store_id": "S0082",
+   "storetype_id": "ST04",
+   "store_size": 23,
+   "city_id": "C024"
+ },
+ {
+   "store_id": "S0132",
+   "storetype_id": "ST04",
+   "store_size": 31,
+   "city_id": "C011"
+ },
+ {
+   "store_id": "S0085",
+   "storetype_id": "ST01",
+   "store_size": 60,
+   "city_id": "C014"
+ },
+ {
+   "store_id": "S0035",
+   "storetype_id": "ST04",
+   "store_size": 17,
+   "city_id": "C022"
+ },
+ {
+   "store_id": "S0125",
+   "storetype_id": "ST04",
+   "store_size": 24,
+   "city_id": "C022"
+ },
+ {
+   "store_id": "S0100",
+   "storetype_id": "ST03",
+   "store_size": 18,
+   "city_id": "C030"
+ },
+ {
+   "store_id": "S0033",
+   "storetype_id": "ST03",
+   "store_size": 16,
+   "city_id": "C025"
+ },
+ {
+   "store_id": "S0115",
+   "storetype_id": "ST04",
+   "store_size": 45,
+   "city_id": "C020"
+ },
+ {
+   "store_id": "S0102",
+   "storetype_id": "ST04",
+   "store_size": 27,
+   "city_id": "C018"
+ },
+ {
+   "store_id": "S0136",
+   "storetype_id": "ST03",
+   "store_size": 12,
+   "city_id": "C005"
+ },
+ {
+   "store_id": "S0096",
+   "storetype_id": "ST04",
+   "store_size": 30,
+   "city_id": "C029"
+ },
+ {
+   "store_id": "S0072",
+   "storetype_id": "ST04",
+   "store_size": 29,
+   "city_id": "C014"
+ },
+ {
+   "store_id": "S0021",
+   "storetype_id": "ST03",
+   "store_size": 15,
+   "city_id": "C024"
+ },
+ {
+   "store_id": "S0079",
+   "storetype_id": "ST03",
+   "store_size": 15,
+   "city_id": "C028"
+ },
+ {
+   "store_id": "S0031",
+   "storetype_id": "ST04",
+   "store_size": 41,
+   "city_id": "C036"
+ },
+ {
+   "store_id": "S0018",
+   "storetype_id": "ST04",
+   "store_size": 27,
+   "city_id": "C029"
+ },
+ {
+   "store_id": "S0090",
+   "storetype_id": "ST02",
+   "store_size": 28,
+   "city_id": "C036"
+ },
+ {
+   "store_id": "S0110",
+   "storetype_id": "ST04",
+   "store_size": 40,
+   "city_id": "C025"
+ },
+ {
+   "store_id": "S0067",
+   "storetype_id": "ST04",
+   "store_size": 16,
+   "city_id": "C014"
+ },
+ {
+   "store_id": "S0061",
+   "storetype_id": "ST04",
+   "store_size": 35,
+   "city_id": "C019"
+ },
+ {
+   "store_id": "S0076",
+   "storetype_id": "ST03",
+   "store_size": 11,
+   "city_id": "C014"
+ },
+ {
+   "store_id": "S0023",
+   "storetype_id": "ST04",
+   "store_size": 31,
+   "city_id": "C008"
+ },
+ {
+   "store_id": "S0083",
+   "storetype_id": "ST04",
+   "store_size": 23,
+   "city_id": "C010"
+ },
+ {
+   "store_id": "S0109",
+   "storetype_id": "ST04",
+   "store_size": 20,
+   "city_id": "C005"
+ },
+ {
+   "store_id": "S0057",
+   "storetype_id": "ST03",
+   "store_size": 16,
+   "city_id": "C034"
+ },
+ {
+   "store_id": "S0062",
+   "storetype_id": "ST04",
+   "store_size": 47,
+   "city_id": "C014"
+ },
+ {
+   "store_id": "S0104",
+   "storetype_id": "ST04",
+   "store_size": 47,
+   "city_id": "C002"
+ },
+ {
+   "store_id": "S0071",
+   "storetype_id": "ST04",
+   "store_size": 32,
+   "city_id": "C014"
+ },
+ {
+   "store_id": "S0060",
+   "storetype_id": "ST04",
+   "store_size": 25,
+   "city_id": "C029"
+ },
+ {
+   "store_id": "S0111",
+   "storetype_id": "ST03",
+   "store_size": 17,
+   "city_id": "C022"
+ },
+ {
+   "store_id": "S0121",
+   "storetype_id": "ST03",
+   "store_size": 18,
+   "city_id": "C022"
+ },
+ {
+   "store_id": "S0019",
+   "storetype_id": "ST03",
+   "store_size": 12,
+   "city_id": "C030"
+ },
+ {
+   "store_id": "S0047",
+   "storetype_id": "ST03",
+   "store_size": 14,
+   "city_id": "C031"
+ },
+ {
+   "store_id": "S0051",
+   "storetype_id": "ST04",
+   "store_size": 39,
+   "city_id": "C027"
+ },
+ {
+   "store_id": "S0026",
+   "storetype_id": "ST04",
+   "store_size": 41,
+   "city_id": "C014"
+ },
+ {
+   "store_id": "S0025",
+   "storetype_id": "ST04",
+   "store_size": 25,
+   "city_id": "C024"
+ },
+ {
+   "store_id": "S0015",
+   "storetype_id": "ST04",
+   "store_size": 19,
+   "city_id": "C014"
+ },
+ {
+   "store_id": "S0001",
+   "storetype_id": "ST04",
+   "store_size": 41,
+   "city_id": "C031"
+ },
+ {
+   "store_id": "S0127",
+   "storetype_id": "ST03",
+   "store_size": 8,
+   "city_id": "C029"
+ },
+ {
+   "store_id": "S0126",
+   "storetype_id": "ST04",
+   "store_size": 34,
+   "city_id": "C014"
+ },
+ {
+   "store_id": "S0114",
+   "storetype_id": "ST03",
+   "store_size": 15,
+   "city_id": "C020"
+ },
+ {
+   "store_id": "S0117",
+   "storetype_id": "ST04",
+   "store_size": 17,
+   "city_id": "C031"
+ },
+ {
+   "store_id": "S0024",
+   "storetype_id": "ST04",
+   "store_size": 26,
+   "city_id": "C022"
+ },
+ {
+   "store_id": "S0003",
+   "storetype_id": "ST03",
+   "store_size": 17,
+   "city_id": "C014"
+ },
+ {
+   "store_id": "S0028",
+   "storetype_id": "ST01",
+   "store_size": 86,
+   "city_id": "C036"
+ },
+ {
+   "store_id": "S0077",
+   "storetype_id": "ST03",
+   "store_size": 12,
+   "city_id": "C014"
+ },
+ {
+   "store_id": "S0093",
+   "storetype_id": "ST04",
+   "store_size": 16,
+   "city_id": "C022"
+ },
+ {
+   "store_id": "S0010",
+   "storetype_id": "ST04",
+   "store_size": 17,
+   "city_id": "C014"
+ },
+ {
+   "store_id": "S0034",
+   "storetype_id": "ST03",
+   "store_size": 14,
+   "city_id": "C022"
+ },
+ {
+   "store_id": "S0022",
+   "storetype_id": "ST04",
+   "store_size": 16,
+   "city_id": "C014"
+ },
+ {
+   "store_id": "S0038",
+   "storetype_id": "ST01",
+   "store_size": 63,
+   "city_id": "C004"
+ },
+ {
+   "store_id": "S0058",
+   "storetype_id": "ST04",
+   "store_size": 17,
+   "city_id": "C014"
+ },
+ {
+   "store_id": "S0069",
+   "storetype_id": "ST02",
+   "store_size": 18,
+   "city_id": "C031"
+ },
+ {
+   "store_id": "S0143",
+   "storetype_id": "ST03",
+   "store_size": 13,
+   "city_id": "C014"
+ },
+ {
+   "store_id": "S0039",
+   "storetype_id": "ST03",
+   "store_size": 15,
+   "city_id": "C014"
+ },
+ {
+   "store_id": "S0137",
+   "storetype_id": "ST04",
+   "store_size": 15,
+   "city_id": "C022"
+ },
+ {
+   "store_id": "S0081",
+   "storetype_id": "ST03",
+   "store_size": 15,
+   "city_id": "C022"
+ },
+ {
+   "store_id": "S0065",
+   "storetype_id": "ST02",
+   "store_size": 41,
+   "city_id": "C036"
+ },
+ {
+   "store_id": "S0139",
+   "storetype_id": "ST04",
+   "store_size": 20,
+   "city_id": "C035"
+ },
+ {
+   "store_id": "S0054",
+   "storetype_id": "ST03",
+   "store_size": 15,
+   "city_id": "C022"
+ },
+ {
+   "store_id": "S0030",
+   "storetype_id": "ST03",
+   "store_size": 13,
+   "city_id": "C006"
+ },
+ {
+   "store_id": "S0056",
+   "storetype_id": "ST04",
+   "store_size": 42,
+   "city_id": "C015"
+ },
+ {
+   "store_id": "S0138",
+   "storetype_id": "ST04",
+   "store_size": 30,
+   "city_id": "C022"
+ },
+ {
+   "store_id": "S0050",
+   "storetype_id": "ST04",
+   "store_size": 31,
+   "city_id": "C014"
+ },
+ {
+   "store_id": "S0005",
+   "storetype_id": "ST04",
+   "store_size": 19,
+   "city_id": "C001"
+ },
+ {
+   "store_id": "S0064",
+   "storetype_id": "ST03",
+   "store_size": 17,
+   "city_id": "C026"
+ },
+ {
+   "store_id": "S0013",
+   "storetype_id": "ST04",
+   "store_size": 33,
+   "city_id": "C026"
+ },
+ {
+   "store_id": "S0118",
+   "storetype_id": "ST03",
+   "store_size": 20,
+   "city_id": "C023"
+ },
+ {
+   "store_id": "S0042",
+   "storetype_id": "ST04",
+   "store_size": 25,
+   "city_id": "C020"
+ },
+ {
+   "store_id": "S0086",
+   "storetype_id": "ST03",
+   "store_size": 12,
+   "city_id": "C003"
+ },
+ {
+   "store_id": "S0134",
+   "storetype_id": "ST03",
+   "store_size": 12,
+   "city_id": "C020"
+ }
+]
